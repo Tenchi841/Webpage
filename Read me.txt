@@ -1,0 +1,9 @@
+This website was created using with help of a HTML Tutorial from freeCodeCamp.org
+
+I learnt:
+- Basics of HTML5 and the sections 'head', 'body', 'Heading 1 - 6' and general layout.
+- How to make text Bold, Italic, Underlined, Emphasised and Strong.
+- How to insert images.
+- How to insert unsorted lists and sorted lists.
+- How to link to websites and how to link to another webpage via 'target' to open a new tab.
+- How to create a table and format the table.
